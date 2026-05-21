@@ -1,0 +1,21 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# LLM / agent scratch state
+.claude/
+CLAUDE.local.md
+.aider*
+.cursor/
+.cursorrules
+.continue/
+.windsurf*
+.codex/
+.goose/

@@ -1,8 +1,8 @@
 cask "tailvault" do
-  version "0.1.0"
-  sha256 "8eb7fd679570c2017c37d15b695c448157d93bc19ad2121f36feabc9aa0ba65e"
+  version "0.1.1"
+  sha256 "b5db612b2fbf832e8ac3c3f38c4b48c4589edcc0b33bb7b0acacb1b55ce0b6dd"
 
-  url "https://github.com/angerops/tailvault/releases/download/v#{version}/TailVault-v0.1.0-macos-arm64.zip"
+  url "https://github.com/angerops/tailvault/releases/download/v#{version}/TailVault-v0.1.1-macos-arm64.zip"
   name "TailVault"
   desc "GUI for managing Setec secrets over Tailscale"
   homepage "https://github.com/angerops/tailvault"
